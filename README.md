@@ -6,7 +6,7 @@ I recently used CSS position properties on my portfolio page (https://devhammed.
 
 ## Classes
 
-Below is the usage ad documentation of classes provided by this library.
+Below is the usage and documentation of classes provided by this library.
 
 ### .position
 > This is a base class for container parent elements, it is required if you don't want the positioned elements to be positioned in relative to the viewport.
