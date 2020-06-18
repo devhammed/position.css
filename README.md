@@ -1,8 +1,8 @@
 # position.css
 
-A simple CSS layout & positioning library created to ease CSS position absolute & relative curves.
+A simple CSS layout & positioning library created to ease CSS position absolute & relative steep curves.
 
-I recently used CSS position properties on my portfolio page (https://devhammed.github.io) and it is not easy to put things in desired position and i know am not the only only experiencing this so i created thi minimal utility to make positioning easy as ABC.
+It is not easy to put things in desired position so I created this minimal utility to make positioning as easy as ABC.
 
 ## Classes
 
@@ -122,4 +122,4 @@ Below is the usage and documentation of classes provided by this library.
 ## Contribute
 Check above TODO, can you add any of it or do you want to improve the existing CSS code?
 
-Fork & Send your pull request to contribute, i will review it and merge.
+Fork & Send your pull request to contribute, I will review it and merge.
